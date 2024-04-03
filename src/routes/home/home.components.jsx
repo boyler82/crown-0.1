@@ -38,8 +38,6 @@ const Home = () => {
     <div>
         <Outlet />
         <Directory categories = {categories} />
- 
-
     </div>
   );
 };
